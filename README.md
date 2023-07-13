@@ -1,0 +1,1 @@
+This is the first practice for HTML in the Odin Project. We are going to be creating a recipe webpage using HTML!
